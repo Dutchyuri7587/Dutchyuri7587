@@ -1,4 +1,8 @@
-## Hi there 👋
+# About me
+
+I'm a guy thats learning how to make games and general art!
+
+I'm currently working on rpgXplatformer!
 
 <!--
 **Dutchyuri7587/Dutchyuri7587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
